@@ -1,16 +1,11 @@
-# meals
+# MealMingle App
 
-A new Flutter project.
+I created a dynamic Flutter-based meals app that offers an array of functionalities. 
+Users can seamlessly apply filters to categorize meals according to preferences. 
+The option to mark meals as favorites adds a personal touch. 
+The app distinguishes itself through its engaging animations, enhancing the overall user experience. 
+This project showcases my proficiency in Flutter's development environment, UI design, state management, and animation integration. 
+The combination of practical features and visual appeal makes this meals app an example of how Flutter can create user-friendly and visually delightful applications.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Note to people wanting to use the app
+If you want to modify and use the app you can change the meals in the dummy_data.dart file and it should render the app with your data.
